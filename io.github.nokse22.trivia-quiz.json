@@ -1,7 +1,7 @@
 {
     "app-id" : "io.github.nokse22.trivia-quiz",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "44",
+    "runtime-version" : "46",
     "sdk" : "org.gnome.Sdk",
     "command" : "trivia-quiz",
     "finish-args" : [
@@ -64,9 +64,8 @@
             "sources" : [
                 {
                     "type" : "git",
-                    "tag" : "v0.1.4",
                     "url" : "https://github.com/Nokse22/trivia-quiz",
-                    "commit" : "1af097dd487c112f49b29c7937c69e5d3d489b3f"
+                    "commit" : "f35159c4e6f247184dcd072bbdb6da7504c80c28"
                 }
             ]
         }
