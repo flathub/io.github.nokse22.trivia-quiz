@@ -65,7 +65,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/Nokse22/trivia-quiz",
-                    "commit" : "f35159c4e6f247184dcd072bbdb6da7504c80c28"
+                    "commit" : "d6b02eb5c4ff764d737830da386e2993859f3afe"
                 }
             ]
         }
