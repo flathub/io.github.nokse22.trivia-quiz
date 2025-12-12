@@ -19,6 +19,8 @@
         "/share/gtk-doc",
         "/share/man",
         "/share/pkgconfig",
+        "*.pyc",
+        "__pycache__",
         "*.la",
         "*.a"
     ],
